@@ -1,12 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# A-GOOD-START
+# Recent advances in the difference-in-differences literature. An attempt at understanding via simulations.
 
 <!-- badges: start -->
 <!-- badges: end -->
-
-Empty project shell with all the right workflow options.
 
 ## Reproducibility
 
